@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948379418215",
+    "project_id": "gasguard-7e7ba",
+    "storage_bucket": "gasguard-7e7ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948379418215:android:581f1a2f2aa04a62b4dec2",
+        "android_client_info": {
+          "package_name": "com.example.gasguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi3i9qVTbuNyFtyXcS7D_HI6iMekkKE04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
