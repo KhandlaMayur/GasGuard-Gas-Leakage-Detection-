@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "948379418215",
+    "firebase_url": "https://gasguard-7e7ba-default-rtdb.firebaseio.com",
     "project_id": "gasguard-7e7ba",
     "storage_bucket": "gasguard-7e7ba.firebasestorage.app"
   },
@@ -12,7 +13,12 @@
           "package_name": "com.example.gasguard"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "948379418215-vbvc15u0g1ir0o5q1376iv7k6tgk5m6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCi3i9qVTbuNyFtyXcS7D_HI6iMekkKE04"
@@ -20,7 +26,41 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948379418215-vbvc15u0g1ir0o5q1376iv7k6tgk5m6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948379418215:android:9597ddbf8a5ae6ccb4dec2",
+        "android_client_info": {
+          "package_name": "com.gasguard.gasguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948379418215-vbvc15u0g1ir0o5q1376iv7k6tgk5m6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi3i9qVTbuNyFtyXcS7D_HI6iMekkKE04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948379418215-vbvc15u0g1ir0o5q1376iv7k6tgk5m6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
